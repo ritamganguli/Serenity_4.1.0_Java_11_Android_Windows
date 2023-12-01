@@ -1,0 +1,10 @@
+<dependencies>
+    <!-- Your existing dependencies -->
+
+    <!-- Appium -->
+    <dependency>
+        <groupId>io.appium</groupId>
+        <artifactId>java-client</artifactId>
+        <version>7.6.0</version> <!-- Use the latest version -->
+    </dependency>
+</dependencies>

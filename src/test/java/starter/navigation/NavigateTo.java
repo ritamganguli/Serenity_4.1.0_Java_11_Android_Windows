@@ -8,7 +8,7 @@ import net.serenitybdd.screenplay.actions.Open;
 public class NavigateTo {
 
     public static Performable theWikipediaHomePage() {
-        String baseUrl ="https://wikipedia.org";
+        String baseUrl ="https://www.discover.com/online-banking/";
 
         return Task.where("{0} opens the Wikipedia home page",
                 Open.url(baseUrl));
